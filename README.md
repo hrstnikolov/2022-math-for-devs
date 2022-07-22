@@ -1,3 +1,3 @@
-# Mathematics for Developers
+# Mathematics for Developers (SoftUni 2022)
 
-Project,  solved exercises and lecture notes on mathematics fundaments.
+This repository contains solved exercises and lecture notes on the SoftUni course "Mathematics for Developers".
